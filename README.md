@@ -483,10 +483,10 @@ python evaluation/generate_winning_plots.py
 ## 🌐 Run the API Server
 
 ```bash
-uvicorn server.app:app --reload --port 8000
+uvicorn server.app:app --reload --port 7860
 ```
 
-Open docs: http://127.0.0.1:8000/docs
+Open docs: http://127.0.0.1:7860/docs
 
 ---
 
