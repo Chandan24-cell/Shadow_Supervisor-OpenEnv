@@ -301,21 +301,17 @@ This project includes real outputs from training and evaluation:
 ## 🖼️ Screenshots / Demo
 
 ### Judge Demo UI
-![Judge Demo](<img width="1600" height="1139" alt="image" src="https://github.com/user-attachments/assets/e0f3d3fa-4529-46fd-ae0b-062414bda913" />
-)
+<img width="1600" height="1139" alt="image" src="https://github.com/user-attachments/assets/e0f3d3fa-4529-46fd-ae0b-062414bda913" />
 
 ### Scenario Inspection
-![Scenario View](<img width="1280" height="896" alt="image" src="https://github.com/user-attachments/assets/e0b17547-919e-45d2-925d-5516b725856b" />
-)
+<img width="1280" height="896" alt="image" src="https://github.com/user-attachments/assets/e0b17547-919e-45d2-925d-5516b725856b" />
+
 
 ### Policy Comparison
-![Policy Comparison](<img width="1280" height="451" alt="image" src="https://github.com/user-attachments/assets/ce3a21d2-b10f-48cb-990e-47d4476f39cc" />
-
-)
+<img width="1280" height="451" alt="image" src="https://github.com/user-attachments/assets/ce3a21d2-b10f-48cb-990e-47d4476f39cc" />
 
 ### Training Evidence
-![Training Evidence](<img width="1280" height="923" alt="image" src="https://github.com/user-attachments/assets/ae74ec56-7c7b-4cbd-884c-a696b6a39116" />
-)
+<img width="1280" height="923" alt="image" src="https://github.com/user-attachments/assets/ae74ec56-7c7b-4cbd-884c-a696b6a39116" />
 
 ### Plots Dashboard
 <img width="1280" height="923" alt="image" src="https://github.com/user-attachments/assets/dbb3015e-943f-4592-b85b-8057dafd7449" />
