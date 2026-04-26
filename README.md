@@ -329,11 +329,11 @@ This project includes real outputs from training and evaluation:
 
 ## 🚀 Live Demo
 
-- 🌐 **Hugging Face Space:** [Open the Live Environment](YOUR_HF_SPACE_LINK)
+- 🌐 **Hugging Face Space:** [Open the Live Environment](https://huggingface.co/spaces/Aakashy00/Shadow_Supervisor-OpenEnv)
 - 💻 **GitHub Repository:** [View Source Code](https://github.com/Chandan24-cell/Shadow_Supervisor-OpenEnv.git)
 - 📓 **Training Notebook:** [Open Colab Notebook](https://colab.research.google.com/github/Chandan24-cell/Shadow_Supervisor-OpenEnv/blob/main/notebooks/shadow_supervisor_training_run.ipynb?authuser=1#scrollTo=34p1Wr9fwVLj)
-- 📝 **Blog / Writeup:** [Read the Blog](YOUR_BLOG_LINK)
-- 🎥 **Short Demo Video:** [Watch the Video](YOUR_VIDEO_LINK)
+
+- 🎥 **Short Demo Video:** [Watch the Video](https://youtu.be/jn4gIckiV7w)
 
 ---
 
