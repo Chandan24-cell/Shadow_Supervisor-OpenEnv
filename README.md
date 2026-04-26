@@ -323,7 +323,7 @@ This project includes real outputs from training and evaluation:
 <img width="1280" height="923" alt="image" src="https://github.com/user-attachments/assets/ae74ec56-7c7b-4cbd-884c-a696b6a39116" />
 
 ### Plots Dashboard
-<img width="1280" height="923" alt="image" src="https://github.com/user-attachments/assets/dbb3015e-943f-4592-b85b-8057dafd7449" />
+<img width="722" height="771" alt="Screenshot 2026-04-26 at 1 34 23 PM" src="https://github.com/user-attachments/assets/adef2beb-c990-4b0b-b614-59cb9b51cdde" />
 
 ---
 
