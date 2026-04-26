@@ -8,3 +8,7 @@ __pycache__/
 *.log
 .cache/
 .gradio/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
