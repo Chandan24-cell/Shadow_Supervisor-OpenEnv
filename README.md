@@ -585,7 +585,7 @@ These are honest trade-offs for a reproducible hackathon submission.
 
 - 🌐 **Environment URL:** [Hugging Face Space](YOUR_HF_SPACE_LINK)
 - 💻 **Source Code:** [GitHub Repository](https://github.com/Chandan24-cell/Shadow_Supervisor-OpenEnv.git)
-- 📓 **Training Notebook:** [Colab Notebook](https://colab.research.google.com/github/Chandan24-cell/Shadow_Supervisor-OpenEnv/blob/main/notebooks/shadow_supervisor_training_run.ipynb?authuser=1#scrollTo=34p1Wr9fwVLj)
+- 📓 **Training Notebook:** [Colab Notebook](https://colab.research.google.com/github/Chandan24-cell/Shadow_Supervisor-OpenEnv/blob/main/notebooks/shadow_supervisor_training_run.ipynb?authuser=1#scrollTo=pMvebedswVLn)
 - 📝 **Mini Blog / Writeup:** [Read the Blog](YOUR_BLOG_LINK)
 - 🎥 **Short Demo Video:** [Watch the Video](YOUR_VIDEO_LINK)
 
