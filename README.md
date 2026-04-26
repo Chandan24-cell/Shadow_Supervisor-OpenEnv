@@ -586,11 +586,10 @@ These are honest trade-offs for a reproducible hackathon submission.
 ## 📚 Submission Materials
 
 - 🌐 **Environment URL:** [Hugging Face Space](YOUR_HF_SPACE_LINK)
-- 💻 **Source Code:** [GitHub Repository](YOUR_GITHUB_LINK)
-- 📓 **Training Notebook:** [Colab Notebook](YOUR_COLAB_LINK)
+- 💻 **Source Code:** [GitHub Repository](https://github.com/Chandan24-cell/Shadow_Supervisor-OpenEnv.git)
+- 📓 **Training Notebook:** [Colab Notebook](https://colab.research.google.com/github/Chandan24-cell/Shadow_Supervisor-OpenEnv/blob/main/notebooks/shadow_supervisor_training_run.ipynb?authuser=1#scrollTo=34p1Wr9fwVLj)
 - 📝 **Mini Blog / Writeup:** [Read the Blog](YOUR_BLOG_LINK)
 - 🎥 **Short Demo Video:** [Watch the Video](YOUR_VIDEO_LINK)
-- 📊 **Presentation / Slides:** [Slides](YOUR_SLIDES_LINK)
 
 **Note:** Please keep large videos outside the repo. Link them publicly instead.
 
@@ -634,15 +633,3 @@ Shadow Supervisor trains agents to catch hidden workflow failures before unsafe 
 Please star the repo, try the demo, and explore the training notebook.
 
 ---
-
-## What You Should Replace After Pasting
-
-Replace these placeholders with your actual links:
-
-- `YOUR_HF_SPACE_LINK` — Hugging Face Space URL
-- `YOUR_GITHUB_LINK` — GitHub repository URL
-- `YOUR_COLAB_LINK` — Google Colab notebook URL
-- `YOUR_VIDEO_LINK` — YouTube video URL
-- `YOUR_BLOG_LINK` — Blog post URL
-- `YOUR_SLIDES_LINK` — Presentation slides URL
-approve
