@@ -300,12 +300,21 @@ This project includes real outputs from training and evaluation:
 
 ## 🖼️ Screenshots / Demo
 
-### Judge Demo UI
+### Dashboard UI
 <img width="1600" height="1139" alt="image" src="https://github.com/user-attachments/assets/e0f3d3fa-4529-46fd-ae0b-062414bda913" />
+
+
+## Before demo
+<img width="1600" height="936" alt="image" src="https://github.com/user-attachments/assets/8867e8a9-1f01-455e-bf7c-60086384b972" />
+
+
+
+## After demo 
+<img width="1600" height="1077" alt="image" src="https://github.com/user-attachments/assets/b7aece30-93fa-4daa-a2ea-c9f749d88bff" />
+
 
 ### Scenario Inspection
 <img width="1280" height="896" alt="image" src="https://github.com/user-attachments/assets/e0b17547-919e-45d2-925d-5516b725856b" />
-
 
 ### Policy Comparison
 <img width="1280" height="451" alt="image" src="https://github.com/user-attachments/assets/ce3a21d2-b10f-48cb-990e-47d4476f39cc" />
