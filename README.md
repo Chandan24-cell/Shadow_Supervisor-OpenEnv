@@ -97,12 +97,12 @@ That is the core challenge of **Shadow Supervisor**.
 
 This project directly aligns with the hackathon brief:
 
-- ✅ Built on **OpenEnv (latest release)**
-- ✅ Includes a **working training script**
-- ✅ Includes **real training evidence**
-- ✅ Includes **loss and reward plots**
-- ✅ Includes a **judge-facing UI**
-- ✅ Designed for **measurable post-training improvement**
+- Built on **OpenEnv (latest release)**
+- Includes a **working training script**
+- Includes **real training evidence**
+- Includes **loss and reward plots**
+- Includes a **judge-facing UI**
+- Designed for **measurable post-training improvement**
 
 ---
 
@@ -282,12 +282,14 @@ The supervisor can take these actions:
 ## 🧪 Real Training Evidence
 
 This project includes real outputs from training and evaluation:
+
 - `outputs/winning_rl_reward_curve.png`
 - `outputs/winning_training_loss.png`
 - `outputs/baseline_vs_trained.png`
 - `outputs/winning_unsafe_approval_rate.png`
 - `outputs/rl_safety_curve.png`
 - `outputs/policy_comparison_hardened.csv`
+
 
 ### Training Assets
 - 📓 Colab / notebook: Training Notebook
@@ -299,19 +301,24 @@ This project includes real outputs from training and evaluation:
 ## 🖼️ Screenshots / Demo
 
 ### Judge Demo UI
-![Judge Demo](media/judge_demo.png)
+![Judge Demo](<img width="1600" height="1139" alt="image" src="https://github.com/user-attachments/assets/e0f3d3fa-4529-46fd-ae0b-062414bda913" />
+)
 
 ### Scenario Inspection
-![Scenario View](media/scenario_view.png)
+![Scenario View](<img width="1280" height="896" alt="image" src="https://github.com/user-attachments/assets/e0b17547-919e-45d2-925d-5516b725856b" />
+)
 
 ### Policy Comparison
-![Policy Comparison](media/policy_comparison.png)
+![Policy Comparison](<img width="1280" height="451" alt="image" src="https://github.com/user-attachments/assets/ce3a21d2-b10f-48cb-990e-47d4476f39cc" />
+
+)
 
 ### Training Evidence
-![Training Evidence](media/training_evidence.png)
+![Training Evidence](<img width="1280" height="923" alt="image" src="https://github.com/user-attachments/assets/ae74ec56-7c7b-4cbd-884c-a696b6a39116" />
+)
 
 ### Plots Dashboard
-![Plots Dashboard](media/plots.png)
+<img width="1280" height="923" alt="image" src="https://github.com/user-attachments/assets/dbb3015e-943f-4592-b85b-8057dafd7449" />
 
 ---
 
